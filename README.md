@@ -1,2 +1,2 @@
 # Recommendation-System
-Recommendation system using content-based filtering and collaborative filtering.
+Movie Recommendation system using content-based filtering and collaborative filtering.
